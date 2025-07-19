@@ -58,25 +58,30 @@
 
 ---
 
-### 📬 Let's Connect
+## 🌐 Connect with me:
 
-<div align="left">
-  <a href="https://linkedin.com/in/[YOUR-LINK-HERE](https://www.linkedin.com/in/reilyn-naidoo-50a346351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
-  </a>
-  <a href="https://instagram.com/(https://www.instagram.com/rei_lyn_arthur_?igsh=ZW81NzQxcXBraHRy&utm_source=qr)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="instagram logo" />
-  </a>
+<p align="left">
   <a href="mailto:reilynnaidoo087@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail logo" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/(https://x.com/reilyn1802?s=21)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="twitter logo" />
+  
+  <a href="https://www.linkedin.com/in/reilyn-naidoo-50a346351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/https://www.facebook.com/share/1Xt1FxEZma/?mibextid=wwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="facebook logo" />
+
+  <a href="https://www.instagram.com/rei_lyn_arthur_?igsh=ZW81NzQxcXBraHRy&utm_source=qr" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+
+  <a href="https://www.facebook.com/share/19Gxb8atWB/?mibextid=wwXIfr" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/reilyn1802?s=21" target="_blank">
+    <img alt="Twitter / X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
