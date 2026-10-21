@@ -71,7 +71,7 @@ flowchart LR
     DB -->|"flagged queue"| W
 ```
 
-**The team (five of us, all first names):** I led and owned database, security and AI backend. **Keshav** led the mobile UI, the n8n automations and the testing. **Saiyusha** built the React admin console and the documentation. **Sashen** built the iOS version. **Diya** brought the product thinking, strategy and presenting.
+**The team (five of us, all first names):** I led and owned database, security, the AI backend, Supabase Edge Functions and push-notification delivery. **Keshav** led the mobile UI, the n8n automations and the testing. **Saiyusha** built the React admin console and the documentation. **Sashen** built the iOS version. **Diya** owned the presentation and the demo script.
 
 **What isn't mine:** the Flutter app and the iOS build were my teammates' work. I wrote the backend they plugged into.
 
